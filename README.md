@@ -22,7 +22,7 @@ The best model is automatically identified based on accuracy, and users can pred
   - ApplicantIncome, CoapplicantIncome, LoanAmount, Loan_Amount_Term
   - Credit_History, Property_Area, Loan_Status (target)
 
-**Source:** Public dataset (can specify if taken from Kaggle or other source).
+**Source:** Kaggle
 
 ---
 
