@@ -2,7 +2,6 @@
 "Comparative study of multiple machine learning models for predicting loan approval, including data preprocessing, model evaluation, visualization, and interactive applicant prediction."
 
 ## Project Overview
-This project demonstrates a **comparative study of multiple machine learning models** for predicting loan approval. It includes data preprocessing, model training, evaluation, and interactive prediction for new applicants.  
 
 The project compares **five ML algorithms**:
 - Logistic Regression
